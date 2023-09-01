@@ -27,7 +27,7 @@ My role at tech Club is as a ' Tech-Leader ' to guide my friends and to introduc
  
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You Can reach us at :  # Gmail : tech@nmce.org.in
+- 📫 You Can reach us at :  # Gmail : tech@nmcoe.org.in
                             # WhatsApp Group : "  "
 
 <!---
