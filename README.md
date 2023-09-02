@@ -21,8 +21,10 @@ My role at tech Club is as a ' Tech-Leader ' to guide my friends and to introduc
 
 
 - 🌱 I’m currently learning ... (HTML5 , CSS , JS ,Python , Ruby , Django , MySQl)
--  Google Developer Profile " https://g.dev/ashishyesale "
--  GitHub Profile " http://github.com/AshishYesale7 "
+-  Google Developer Profile
+-     https://g.dev/ashishyesale 
+-  GitHub Profile
+-      http://github.com/AshishYesale7  
 
  
 
