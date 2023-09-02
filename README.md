@@ -36,4 +36,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Some Important links for research papers : https://sci-hub.hkvisa.net and Pate the DOI no. in this site : https://ieeexplore.ieee.org/Xplore/home.jsp
+Some Important links  
+
+                   For Research papers Visit :  https://ieeexplore.ieee.org/Xplore/home.jsp
