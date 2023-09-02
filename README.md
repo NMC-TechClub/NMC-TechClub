@@ -34,3 +34,6 @@ My role at tech Club is as a ' Tech-Leader ' to guide my friends and to introduc
 NMC-TechClub/NMC-TechClub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Some Important links for research papers : https://sci-hub.hkvisa.net and Pate the DOI no. in this site : https://ieeexplore.ieee.org/Xplore/home.jsp
