@@ -40,4 +40,4 @@ You can click the Preview link to take a look at your changes.
 
 Some Important links  
 
-                   For Research papers Visit :  https://ieeexplore.ieee.org/Xplore/home.jsp
+For Research papers Visit :  https://ieeexplore.ieee.org/Xplore/home.jsp
