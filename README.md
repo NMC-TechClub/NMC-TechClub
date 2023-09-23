@@ -7,6 +7,7 @@ We aim to be a hub of creativity, where students can learn, share, and grow toge
  
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can reach us at :  # Gmail : tech@nmcoe.org.in
+- Computer Science & Engineering Dep. of NMCOE : https://www.nmcoe.org.in/computer-faculty.php
                       
 
 <!---
